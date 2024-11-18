@@ -1,0 +1,10 @@
+insert into user_dtil values(101, 'Pune',   9876543213,  'Piyush');
+insert into user_dtil values(102, 'Jalna',  9876543213,  'Ayush');
+insert into user_dtil values(103, 'Jintur', 9876543213,  'Ankush');
+insert into user_dtil values(104, 'Manta',  9876543213,  'Mahesh');
+insert into user_dtil values(105, 'Nagar',  9876543213,  'Umesh');
+insert into user_dtil values(106, 'Mumbai', 9876543213,  'Suresh');
+insert into user_dtil values(107, 'Nashik', 9876543213,  'Ramesh');
+insert into user_dtil values(108, 'Amravti',9876543213,  'Aasha');
+insert into user_dtil values(109, 'Nagpur', 9876543213,  'Nisha');
+insert into user_dtil values(110, 'Akola',  9876543213,  'Prisha');
