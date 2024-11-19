@@ -37,5 +37,10 @@ public class UserController {
 	    return new ResponseEntity<User>(us,HttpStatus.OK);
 		
 	}
-	
+
+        @PostMapping(value ="/user")
+	public ResponseEntity<User> add User()
+        {
+  
+        }
 }
